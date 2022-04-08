@@ -17,7 +17,7 @@ int main(void)
 			break;
 		}
 
-		putcahr(',');
+		putchar(',');
 		putchar(' ');
 	}
 
