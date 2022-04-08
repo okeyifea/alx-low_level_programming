@@ -5,7 +5,7 @@
 /**
  * main - Entry point
  *
- * Retutn: Always 0 (success)
+ * Retutn: Always 0 (success/correct)
  */
 int main(void)
 {
