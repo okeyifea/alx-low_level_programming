@@ -1,19 +1,20 @@
 #include "main.h"
 /**
  * main - entry point
- * @void: no argument
- * Return: Always 0
+ *
+ * Return:nothing, return void
  */
 int main(void)
 {
-	char ermias[] = "_putchar";
+	_putchar('_');
+	 _putchar('p');
+	  _putchar('u');
+	   _putchar('t');
+	    _putchar('c');
+	     _putchar('h');
+	      _putchar('a');
+	       _putchar('r');
+	        _putchar('\n');
 
-	int c;
-
-	for (c = 0; c < 8; c++)
-	{
-		-putchar(ermias[c]);
-	}
-	_putchar('\n');
 	return (0);
 }
