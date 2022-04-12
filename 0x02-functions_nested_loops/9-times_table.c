@@ -13,7 +13,7 @@ void times_table(void)
 
 	while (a <= 9)
 	{
-		b =0;
+		b = 0;
 
 		while (b <= 9)
 		{
@@ -30,7 +30,7 @@ void times_table(void)
 			}
 			else
 			{
-				_putchar('0' + rep/10);
+				_putchar('0' + rep / 10);
 				_putchar('0' + rep % 10);
 			}
 
