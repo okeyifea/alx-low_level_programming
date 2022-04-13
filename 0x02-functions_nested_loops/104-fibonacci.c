@@ -34,7 +34,7 @@ int main(void)
 			half1 += 1;
 			half2 %= 10000000000;
 		}
-		printf("%ln%lu", half1, half2);
+		printf("%ld", half1, half2);
 		if (count != 98)
 			printf(",");
 
@@ -46,5 +46,3 @@ int main(void)
 	printf("\n");
 	return (0);
 }
-		                         
-
