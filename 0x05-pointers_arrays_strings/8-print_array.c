@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * print_array - print n element of an array
- * @a: the pointer to the elements 
+ * @a: the pointer to the elements
  * @n: times to print elements
  */
 
