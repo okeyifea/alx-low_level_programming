@@ -5,7 +5,7 @@
  * Return: void
  */
 
-void print_rev (char *s)
+void print_rev(char *s)
 {
 	int len, i, half;
 	char temp;
@@ -15,7 +15,7 @@ void print_rev (char *s)
 
 	i = 0;
 
-	half = len/2;
+	half = len / 2;
 
 	while (half--)
 	{
