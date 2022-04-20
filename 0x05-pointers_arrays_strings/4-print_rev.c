@@ -5,7 +5,7 @@
  * Return: void
  */
 
-void rev_string(char *s)
+void print_rev (char *s)
 {
 	int len, i, half;
 	char temp;
