@@ -13,7 +13,7 @@ int _atoi(char *s)
 	int sig = -1;
 	int brk = 0;
 
-	for (s[i] != '\0'; i++;)
+	for (i = 0; s[i] != '\0'; i++;)
 	{
 		if (s[i] == '_')
 			sig = sig * -1;
