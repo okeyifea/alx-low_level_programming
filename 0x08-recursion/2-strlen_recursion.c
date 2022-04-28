@@ -8,7 +8,6 @@
  */
 int _strlen_recursion(char *s)
 {
-	char str[]= "_strlen_recursion";
-	printf("Length of string is: %d", strlen(str));
+	char str
 	return 0;
 }
